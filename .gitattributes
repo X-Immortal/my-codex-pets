@@ -1,0 +1,5 @@
+* text=auto
+*.py text eol=lf
+*.md text eol=lf
+pets/** -text
+SHA256SUMS.txt text eol=lf
